@@ -1,10 +1,13 @@
 {
-  "examples": [
-    ["~ cenam edere vult.", "~ wants to eat the meal.", "h"],
-    ["~ et puer dissentiunt.", "~ and the boy disagree.", "h"],
-    ["± venire dixi.", "I told ~ to come.", "h"],
-    ["~ cenae seduit.", "~ sat down for a meal.", "h"],
-    ["~ clavem thesauri habet!", "~ has the key of the treasure!", "h"],
-    ["populus ± volunt.", "The people want ~.", "t"]
+  "h": [
+    ["~ cenam edere vult.", "~ wants to eat the meal."],
+    ["~ et puer dissentiunt.", "~ and the boy disagree."],
+    ["± venire dixi.", "I told ~ to come."],
+    ["~ cenae seduit.", "~ sat down for a meal."],
+    ["~ clavem thesauri habet!", "~ has the key of the treasure!"]
+  ],
+
+  "t": [
+    ["populus ± volunt.", "The people want ~."]
   ]
-"
+}
