@@ -12,7 +12,7 @@
   ],
 
   "p": [
-    ["mei filii ? ire volunt."],
-    ["~ mala fuit, sed nunc bonus est."]
+    ["mei filii ? ire volunt.", "My children want to go to ~".],
+    ["~ mala fuit, sed nunc bonus est.", "~ was bad, but it is now good."]
   ]
 }
